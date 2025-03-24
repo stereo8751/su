@@ -1,0 +1,88 @@
+{
+    "id": "sucer8751",
+    "name": "sucer8751自用",
+    "author": "@找不到的",
+    "icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/sakura.png",
+    "repo": "",
+    "apps": [
+        {
+      "id": "xijiu",
+      "name": "习酒",
+      "author": "@雪佬",
+      "script": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/XiJiu/XiJiu.js",
+      "repo": "",
+      "icons": [
+        "https://raw.githubusercontent.com/FoKit/Scripts/main/images/tuhu.png",
+        "https://raw.githubusercontent.com/FoKit/Scripts/main/images/tuhu.png"
+      ],
+      "descs_html": ["习酒"],
+      "keys": ["XiJiu"],
+      "settings": [
+        {
+          "id": "XiJiu",
+          "name": "Token",
+          "val": "",
+          "type": "textarea",
+          "autoGrow": true,
+          "rows": 1,
+          "desc": "活动 Token, 以数组字符串形式保存"
+        }        
+      ]
+     },
+       {
+      "id": "tuhu",
+      "name": "途虎养车",
+      "author": "@FoKit",
+      "script": "https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/tuhu.js",
+      "repo": "",
+      "icons": [
+        "https://raw.githubusercontent.com/FoKit/Scripts/main/images/tuhu.png",
+        "https://raw.githubusercontent.com/FoKit/Scripts/main/images/tuhu.png"
+      ],
+      "descs_html": ["途虎养车签到"],
+      "keys": ["tuhu_token", "tuhu_blackbox"],
+      "settings": [
+        {
+          "id": "tuhu_token",
+          "name": "Token",
+          "val": "",
+          "type": "textarea",
+          "autoGrow": true,
+          "rows": 1,
+          "desc": "活动 Token, 以数组字符串形式保存"
+        }        
+    ]
+   },
+        {
+            "id": "WYYX",
+            "name": "网易严选",
+            "author": "@777",
+            "script": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/WYYX/WYYX.js",
+            "repo": "",
+            "icons": [
+              "https://raw.githubusercontent.com/FoKit/Scripts/main/images/tuhu.png",
+              "https://raw.githubusercontent.com/FoKit/Scripts/main/images/tuhu.png"
+            ],
+            "descs_html": ["网易严选"],
+            "keys": ["WYYX"],
+            "settings": [
+              {
+                "id": "WYYX",
+                "name": "Token",
+                "val": "",
+                "type": "textarea",
+                "autoGrow": true,
+                "rows": 1,
+                "desc": "活动 Token, 以数组字符串形式保存"
+              }
+            ]
+        }
+      ]
+    }
+   
+ 
+    
+        
+        
+    
+
